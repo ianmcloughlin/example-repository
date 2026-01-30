@@ -1,6 +1,21 @@
 # Example Repository
 
+[This README mostly demonstrates the use of Markdown.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 This is an example repository.
+**This text is bold.**
+*This text is italic.*
+
+> I am cool.
+> 
+> *Said Ian McLoughlin.*
+
+Here is some Python code.
+
+```python
+a = 1
+print(a)
+```
 
 ## Installation
 
@@ -12,6 +27,6 @@ This is an example repository.
 
 I recommend using Visual Studio Code and Anaconda to run the notebook.
 
-https://gemini.google.com/share/d4f5df525356
+As you know, from the videos, I used [Gemini to learn about git](https://gemini.google.com/share/d4f5df525356).
 
-https://atu.ie
+We are at [ATU](https://atu.ie)!
